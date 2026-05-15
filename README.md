@@ -9,11 +9,14 @@ A powerful image processing application leveraging Fourier transform techniques 
 - **Image Processing** - Apply filters and enhancements in the frequency domain
 - **Visual Studio** - Interactive interface for real-time image manipulation
 - **High Performance** - Optimized algorithms for fast processing
+- **Improved UI and UX** - Optimized best user interface with easy mastery
 
-# Before
-- ![Image](screenshots/blur-brain.jpeg)
-# After 
-- ![Image](screenshots/brain.jpeg)
+# After shapening the brain image
+![Image](screenshots/MRI%201-6.jpg)
+# Blurring an image to prevent identification
+![Image](screenshots/blurring.png)
+# Filter addition in the image
+![Image](screenshots/filter.png)
 
 ## Quick Start
 
